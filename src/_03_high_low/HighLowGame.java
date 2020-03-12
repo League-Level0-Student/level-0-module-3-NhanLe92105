@@ -42,7 +42,8 @@ public class HighLowGame {
 				// 10. Tell them it's too low
 		 JOptionPane.showMessageDialog(null, "Your guess was too low");
 	 }
-		// 13. Tell them they lose zdfgst
+		// 13. Tell them they lose 
+	 JOptionPane.showMessageDialog(null,"You lose ");
 	 
 		
 	}
