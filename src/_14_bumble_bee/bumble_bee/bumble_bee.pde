@@ -5,7 +5,7 @@ Use Modulo to make the colors alternate
 */
 
 
-for ( int i = 0 ; i< 20 ; i ++) { 
+for ( int i = 0 ; i< 15 ; i ++) { 
  
    if( i % 2 == 1) {
  fill( 0,0,0);  }
